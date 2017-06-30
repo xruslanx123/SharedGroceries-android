@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "339769284951",
+    "firebase_url": "https://sharedgroceries-61cf9.firebaseio.com",
+    "project_id": "sharedgroceries-61cf9",
+    "storage_bucket": "sharedgroceries-61cf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339769284951:android:845c9805a6801d7b",
+        "android_client_info": {
+          "package_name": "sharedgroceries.ruslan.sharedgroceries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339769284951-vefqdvgpb9336opv8k4ofofroimp88vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sharedgroceries.ruslan.sharedgroceries",
+            "certificate_hash": "161f4f65c5707632e93bd054f3a7e44099dd5acd"
+          }
+        },
+        {
+          "client_id": "339769284951-t71ogjq40qlu5u2i6opo1koh352ml09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXgknp5RRthwRGllAjEXYRp9Gc-CxJcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339769284951-t71ogjq40qlu5u2i6opo1koh352ml09k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339769284951-nu877ji1df7ba21genr9domcn91pv3pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ruslan.sharedGroceries"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
